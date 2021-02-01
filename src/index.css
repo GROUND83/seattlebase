@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.react-switch-bg > div {
+  width: 80px !important;
+}
+@tailwind utilities;
